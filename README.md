@@ -30,9 +30,11 @@
 <img src = "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt=  "Power BI">
 </p>
 
+<h1>My Github Statistics: </h1>
+<p>
 [![Shurahbeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=justuravgcoder)](https://github.com/justuravgcoder/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact)](https://github.com/justuravgcoder)
-
+</p>
 
 <!---
 justuravgcoder/justuravgcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
