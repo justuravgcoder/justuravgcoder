@@ -31,7 +31,7 @@
   </p>
     <br>
   <br>
-<h2> A bit more about me 🇵🇰 </h2>
+<h2> A bit more about me (🇵🇰)</h2>
 <ol>
   <li>💻 Love to develop applications whether mobile or web.</li>
   <li>🤖 Full-time student with a major in Artificial Intelligence.</li>
