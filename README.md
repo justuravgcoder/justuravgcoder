@@ -3,6 +3,7 @@
 <center><h2>I am Currently a student trying to become an AI/ML Engineer</h2></center>
 
 <h1>Technological Stack</h1>
+<p>
 <img src = "https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt = "Flutter">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt=  "Dart">
 <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5">
@@ -25,7 +26,7 @@
 <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt=  "Pycharm">
 <img src = "https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt=  "Netlify">
 <img src = "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt=  "Power BI">
-
+</p>
 
 
 <!---
