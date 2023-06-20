@@ -43,7 +43,7 @@
 
     <div>
     <a href="https://github.com/justuravgcoder/">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact&theme=vision-friendly-dark">
     </a>
     </div>
   </div>
