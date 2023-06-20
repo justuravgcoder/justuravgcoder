@@ -48,8 +48,6 @@
     <br>
     <img src = "http://github-readme-streak-stats.herokuapp.com?user=justuravgcoder&theme=dark&background=000000">
   </div>
-<br>
-<br>
   <h1>Let's Connect :mailbox_with_mail:</h1>
   <p>
     <!-- Social Media Icons -->
