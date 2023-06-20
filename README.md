@@ -69,7 +69,7 @@
   </p>
   <div>
     <br>
- <h2> Make me famous! (lol) 😆</h2><
+ <h2> Make me famous! (lol) 😆</h2>
   <img src="https://profile-counter.glitch.me/justuravgcoder/count.svg" />
   </div>
 </div>
