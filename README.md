@@ -48,16 +48,16 @@
   <h1>Let's Connect :mailbox_with_mail:</h1>
   <p>
     <!-- Social Media Icons -->
-    <a href="https://www.facebook.com/yourusername">
+    <a href="https://www.facebook.com/profile.php?id=100008757842983">
       <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
-    <a href="https://www.instagram.com/yourusername">
+    <a href="https://www.instagram.com/shurahbeel_peerzada/">
       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://twitter.com/yourusername">
       <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
-    <a href="https://www.linkedin.com/in/yourusername">
+    <a href="https://www.linkedin.com/in/shurahbeel-peerzada-69676424b/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
