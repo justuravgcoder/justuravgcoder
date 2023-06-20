@@ -32,11 +32,14 @@
     <br>
   <br>
 <h2> A bit more about me 🇵🇰 </h2>
-<ul>
+<ol>
   <li>💻 Love to develop applications whether mobile or web.</li>
   <li>🤖 Full-time student with a major in Artificial Intelligence.</li>
   <li>⏲️ I try to solve problems on Codeforces and LeetCode.</li>
-</ul>
+  <li>📺 Love to explore new technologies</li>
+  <li>👷 Workaholic</li>
+  <li>👨‍🍳 And a part time chef
+</ol>
   <br>
   <br>
    <h1>My GitHub Statistics :chart:</h1>
