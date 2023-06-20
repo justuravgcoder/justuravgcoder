@@ -4,7 +4,6 @@
   <h2>I am currently a student aspiring to become an AI/ML Engineer :student:</h2>
   <br>
   <br>
-  <br>
   <h1>Technological Stack :technologist:</h1>
   <p>
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
@@ -30,6 +29,8 @@
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   </p>
+    <br>
+  <br>
   <h1>My Github Statistics :chart:</h1>
   <a href="https://github.com/justuravgcoder/">
     <img src="https://github-readme-stats.vercel.app/api?username=justuravgcoder" alt="GitHub Stats">
@@ -37,6 +38,8 @@
   <a href="https://github.com/justuravgcoder/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact" alt="Top Languages">
   </a>
+    <br>
+  <br>
   <h1>Let's Connect :mailbox_with_mail:</h1>
   <p>
     <!-- Social Media Icons -->
