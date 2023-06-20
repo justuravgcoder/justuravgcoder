@@ -42,12 +42,6 @@
   </div>
 </div>
 
-<style>
-  .github-stat-image {
-    width: 48%;
-    margin: 10px;
-  }
-</style>
 <br>
 <br>
   <h1>Let's Connect :mailbox_with_mail:</h1>
