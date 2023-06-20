@@ -49,11 +49,6 @@
     <img src = "http://github-readme-streak-stats.herokuapp.com?user=justuravgcoder&theme=dark&background=000000">
       <br>
       <br>
-    <div>
-    <a href="https://github.com/justuravgcoder/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact" alt="Top Languages">
-    </a>
-    </div>
   </div>
 <br>
 <br>
