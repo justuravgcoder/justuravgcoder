@@ -62,6 +62,8 @@
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
+  Make me famous! (lol) 😆<br>
+  <img src="https://profile-counter.glitch.me/justuravgcoder/count.svg" />
 </div>
 </div>
 
