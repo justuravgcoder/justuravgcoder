@@ -47,8 +47,6 @@
     <br>
     <br>
     <img src = "http://github-readme-streak-stats.herokuapp.com?user=justuravgcoder&theme=dark&background=000000">
-      <br>
-      <br>
   </div>
 <br>
 <br>
