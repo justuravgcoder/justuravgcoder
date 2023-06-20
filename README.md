@@ -32,10 +32,10 @@
     <br>
   <br>
   <h2> A bit more about me </h2>
-  
-- 💻 Love to develop applications whether mobile or web.
-- 🤖 Fulltime student with a major of Artificial Intelligence.
-- ⏲️ I try to solve problems on codeforces and leetcode.
+    - 💻 Love to develop applications whether mobile or web.
+    - 🤖 Fulltime student with a major of Artificial Intelligence.
+    - ⏲️ I try to solve problems on codeforces and leetcode.
+  <br>
   <br>
    <h1>My GitHub Statistics :chart:</h1>
   <div>
