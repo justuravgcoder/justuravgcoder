@@ -3,7 +3,7 @@
 <center><h2>I am Currently a student trying to become an AI/ML Engineer</h2></center>
 
 <h1>Technological Stack</h1>
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<img src = "https://img.shields.io/badge/Flutter-%2302569B.svg" ?style=for-the-badge&logo=Flutter&logoColor=white alt = "Flutter">
 <!---
 justuravgcoder/justuravgcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
