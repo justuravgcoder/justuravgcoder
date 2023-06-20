@@ -32,16 +32,14 @@
     <br>
   <br>
    <h1>My GitHub Statistics :chart:</h1>
-  <div class="github-stats">
+  <div>
     <a href="https://github.com/justuravgcoder/">
-      <img src="https://github-readme-stats.vercel.app/api?username=justuravgcoder" alt="GitHub Stats" class="github-stat-image">
+      <img src="https://github-readme-stats.vercel.app/api?username=justuravgcoder" alt="GitHub Stats">
     </a>
     <a href="https://github.com/justuravgcoder/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact" alt="Top Languages" class="github-stat-image">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact" alt="Top Languages">
     </a>
   </div>
-</div>
-
 <br>
 <br>
   <h1>Let's Connect :mailbox_with_mail:</h1>
