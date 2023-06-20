@@ -31,10 +31,12 @@
   </p>
     <br>
   <br>
-  <h2> A bit more about me </h2>
-    - 💻 Love to develop applications whether mobile or web.
-    - 🤖 Fulltime student with a major of Artificial Intelligence.
-    - ⏲️ I try to solve problems on codeforces and leetcode.
+<h2> A bit more about me 🇵🇰 </h2>
+<ul>
+  <li>💻 Love to develop applications whether mobile or web.</li>
+  <li>🤖 Full-time student with a major in Artificial Intelligence.</li>
+  <li>⏲️ I try to solve problems on Codeforces and LeetCode.</li>
+</ul>
   <br>
   <br>
    <h1>My GitHub Statistics :chart:</h1>
