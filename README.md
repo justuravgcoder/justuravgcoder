@@ -43,7 +43,7 @@
       <br>
     <div>
     <a href="https://github.com/justuravgcoder/">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact&theme=vision-friendly-dark">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact" alt="Top Languages">
     </a>
     </div>
   </div>
