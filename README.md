@@ -37,9 +37,7 @@
   <a href="https://github.com/justuravgcoder/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact" alt="Top Languages">
   </a>
-</div>
-
-<h1>Let's Connect :mailbox_with_mail:</h1>
+  <h1>Let's Connect :mailbox_with_mail:</h1>
   <p>
     <!-- Social Media Icons -->
     <a href="https://www.facebook.com/yourusername">
@@ -55,11 +53,7 @@
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
-  <h1>My GitHub Statistics :chart:</h1>
-  <a href="https://github.com/justuravgcoder/">
-    <img src="https://github-readme-stats.vercel.app/api?username=justuravgcoder" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/justuravgcoder/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact" alt="Top Languages">
-  </a>
 </div>
+</div>
+
+
