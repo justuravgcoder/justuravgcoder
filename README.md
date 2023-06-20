@@ -1,6 +1,6 @@
 <img src = "https://github.com/justuravgcoder/PowerBI-Dashboard/assets/108054504/09871569-eb0e-4cfb-8eca-a12e00743c85">
-<center><h1>Hi There! Shurahbeel Here </h1></center>
-<center><h2>I am Currently a student trying to become an AI/ML Engineer</h2></center>
+<center><h1>Hi There! Shurahbeel Here :wave:</h1></center>
+<center><h2>I am Currently a student trying to become an AI/ML Engineer :student:</h2></center>
 <br>
 <br>
 <br>
