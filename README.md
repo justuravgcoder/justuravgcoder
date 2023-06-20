@@ -32,11 +32,11 @@
     <br>
   <br>
    <h1>My GitHub Statistics :chart:</h1>
-    <br>
   <div>
     <a href="https://github.com/justuravgcoder/">
       <img src="https://github-readme-stats.vercel.app/api?username=justuravgcoder" alt="GitHub Stats">
     </a>
+    <br>
     <div>
     <a href="https://github.com/justuravgcoder/">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact" alt="Top Languages">
