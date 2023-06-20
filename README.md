@@ -29,7 +29,8 @@
 <img src = "https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt=  "Netlify">
 <img src = "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt=  "Power BI">
 </p>
-<img src = https://github-readme-stats.vercel.app/api?username=justuravgcoder">
+
+[![Shurahbeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=justuravgcoder)](https://github.com/justuravgcoder/)
 
 
 <!---
