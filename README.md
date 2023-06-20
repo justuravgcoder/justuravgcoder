@@ -31,15 +31,25 @@
   </p>
     <br>
   <br>
-  <h1>My Github Statistics :chart:</h1>
-  <a href="https://github.com/justuravgcoder/">
-    <img src="https://github-readme-stats.vercel.app/api?username=justuravgcoder" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/justuravgcoder/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact" alt="Top Languages">
-  </a>
-    <br>
-  <br>
+   <h1>My GitHub Statistics :chart:</h1>
+  <div class="github-stats">
+    <a href="https://github.com/justuravgcoder/">
+      <img src="https://github-readme-stats.vercel.app/api?username=justuravgcoder" alt="GitHub Stats" class="github-stat-image">
+    </a>
+    <a href="https://github.com/justuravgcoder/">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justuravgcoder&layout=compact" alt="Top Languages" class="github-stat-image">
+    </a>
+  </div>
+</div>
+
+<style>
+  .github-stat-image {
+    width: 48%;
+    margin: 10px;
+  }
+</style>
+<br>
+<br>
   <h1>Let's Connect :mailbox_with_mail:</h1>
   <p>
     <!-- Social Media Icons -->
